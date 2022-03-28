@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.oop.Main",
+            "projectName": "04 - Latihan-1_4448daa0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "com.oop.Main",
+            "projectName": "template"
+        }
+    ]
+}
